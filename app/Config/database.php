@@ -64,10 +64,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
+		'host' => '187.17.254.227',
+		'login' => 'root',
+		'password' => 'sucesso',
+		'database' => 'cursocake',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);

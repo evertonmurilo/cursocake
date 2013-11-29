@@ -1,0 +1,407 @@
+2013-11-29 15:58:03 Error: [MissingControllerException] Controller class CadastrarController could not be found.
+Exception Attributes: array (
+  'class' => 'CadastrarController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-29 15:58:44 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 15:58:44 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 15:59:20 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 15:59:20 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/Categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 15:59:26 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 15:59:26 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:02:46 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:02:46 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/cadastrar/
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:02:52 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:02:52 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:06:40 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:06:40 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:06:42 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:06:42 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:06:43 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:06:43 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:12:35 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:12:35 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:12:36 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:12:36 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:12:36 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:12:36 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:12:37 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:12:37 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:15 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:13:15 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:16 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:13:16 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:18 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:13:18 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:19 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:13:19 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:19 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 17]
+2013-11-29 16:13:19 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 17, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:40 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 6]
+2013-11-29 16:13:40 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 6)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 6, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 6, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:13:41 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/cakephp/app/Controller/CategoriasController.php, line 6]
+2013-11-29 16:13:41 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/cakeph...', 6)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/cakeph...', 6, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/cakeph...', 6, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 16:14:04 Error: [MissingViewException] View file "/var/www/cakephp/app/View/Categorias/editar.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/cakephp/app/View/Categorias/editar.ctp',
+)
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(457): View->_getViewFileName(NULL)
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-29 16:14:13 Error: [MissingViewException] View file "/var/www/cakephp/app/View/Categorias/cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/cakephp/app/View/Categorias/cadastrar.ctp',
+)
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(457): View->_getViewFileName(NULL)
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-29 16:15:14 Error: [MissingViewException] View file "/var/www/cakephp/app/View/Categorias/editar.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/cakephp/app/View/Categorias/editar.ctp',
+)
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(457): View->_getViewFileName(NULL)
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-29 16:15:15 Error: [MissingViewException] View file "/var/www/cakephp/app/View/Categorias/editar.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/cakephp/app/View/Categorias/editar.ctp',
+)
+Request URL: /cakephp/categorias/editar/1
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(457): View->_getViewFileName(NULL)
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-29 17:50:34 Error: [MissingTableException] Table categorias for model Categoria was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'categorias',
+  'class' => 'Categoria',
+  'ds' => 'default',
+)
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Model.php(3493): Model->setSource('categorias')
+#1 /var/www/cakephp/lib/Cake/Model/Model.php(1353): Model->getDataSource()
+#2 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#3 /var/www/cakephp/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('Categoria', 'fields')
+#4 /var/www/cakephp/app/View/Categorias/cadastrar.ctp(3): FormHelper->create('Categoria', Array)
+#5 /var/www/cakephp/lib/Cake/View/View.php(929): include('/var/www/cakeph...')
+#6 /var/www/cakephp/lib/Cake/View/View.php(891): View->_evaluate('/var/www/cakeph...', Array)
+#7 /var/www/cakephp/lib/Cake/View/View.php(460): View->_render('/var/www/cakeph...')
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#9 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#10 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-11-29 17:52:59 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [/var/www/cakephp/app/Controller/CategoriasController.php, line 14]
+2013-11-29 17:52:59 Error: [FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/cakeph...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/cakeph...', 14, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/cakeph...', 14, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 17:54:38 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [/var/www/cakephp/app/Controller/CategoriasController.php, line 14]
+2013-11-29 17:54:38 Error: [FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/cakeph...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/cakeph...', 14, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/cakeph...', 14, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 17:56:11 Error: Fatal Error (64): Cannot redeclare AppController::$components in [/var/www/cakephp/app/Controller/AppController.php, line 34]
+2013-11-29 17:56:11 Error: [FatalErrorException] Cannot redeclare AppController::$components
+Request URL: /cakephp/categorias/cadastrar
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/var/www/cakeph...', 34)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/var/www/cakeph...', 34, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/var/www/cakeph...', 34, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 17:57:46 Error: [MissingViewException] View file "/var/www/cakephp/app/View/Categorias/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/cakephp/app/View/Categorias/index.ctp',
+)
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/View/View.php(457): View->_getViewFileName(NULL)
+#1 /var/www/cakephp/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-29 18:09:00 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cursocake.categorias' doesn't exist
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/cakephp/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /var/www/cakephp/lib/Cake/Model/Model.php(1356): Mysql->describe(Object(AppModel))
+#3 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(2292): Model->schema()
+#4 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(1046): DboSource->fields(Object(AppModel))
+#5 /var/www/cakephp/lib/Cake/Model/Model.php(2897): DboSource->read(Object(AppModel), Array)
+#6 /var/www/cakephp/lib/Cake/Model/Model.php(2869): Model->_readDataSource('all', Array)
+#7 /var/www/cakephp/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(1079): PaginatorComponent->paginate(NULL, Array, Array)
+#9 /var/www/cakephp/app/Controller/CategoriasController.php(7): Controller->paginate()
+#10 [internal function]: CategoriasController->index()
+#11 /var/www/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CategoriasController), Array)
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#14 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-11-29 18:10:15 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cursocake.categorias' doesn't exist
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/cakephp/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /var/www/cakephp/lib/Cake/Model/Model.php(1356): Mysql->describe(Object(AppModel))
+#3 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(2292): Model->schema()
+#4 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(1046): DboSource->fields(Object(AppModel))
+#5 /var/www/cakephp/lib/Cake/Model/Model.php(2897): DboSource->read(Object(AppModel), Array)
+#6 /var/www/cakephp/lib/Cake/Model/Model.php(2869): Model->_readDataSource('all', Array)
+#7 /var/www/cakephp/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(1079): PaginatorComponent->paginate(NULL, Array, Array)
+#9 /var/www/cakephp/app/Controller/CategoriasController.php(7): Controller->paginate()
+#10 [internal function]: CategoriasController->index()
+#11 /var/www/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CategoriasController), Array)
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#14 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-11-29 18:12:03 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cursocake.categorias' doesn't exist
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/cakephp/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /var/www/cakephp/lib/Cake/Model/Model.php(1356): Mysql->describe(Object(AppModel))
+#3 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(2292): Model->schema()
+#4 /var/www/cakephp/lib/Cake/Model/Datasource/DboSource.php(1046): DboSource->fields(Object(AppModel))
+#5 /var/www/cakephp/lib/Cake/Model/Model.php(2897): DboSource->read(Object(AppModel), Array)
+#6 /var/www/cakephp/lib/Cake/Model/Model.php(2869): Model->_readDataSource('all', Array)
+#7 /var/www/cakephp/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/cakephp/lib/Cake/Controller/Controller.php(1079): PaginatorComponent->paginate(NULL, Array, Array)
+#9 /var/www/cakephp/app/Controller/CategoriasController.php(7): Controller->paginate()
+#10 [internal function]: CategoriasController->index()
+#11 /var/www/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CategoriasController), Array)
+#12 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /var/www/cakephp/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CategoriasController), Object(CakeRequest), Object(CakeResponse))
+#14 /var/www/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-11-29 18:16:21 Error: Fatal Error (1): Cannot unset string offsets in [/var/www/cakephp/lib/Cake/View/Helper/HtmlHelper.php, line 345]
+2013-11-29 18:16:21 Error: [FatalErrorException] Cannot unset string offsets
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot unset st...', '/var/www/cakeph...', 345)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 18:16:59 Error: Fatal Error (1): Cannot unset string offsets in [/var/www/cakephp/lib/Cake/View/Helper/HtmlHelper.php, line 345]
+2013-11-29 18:16:59 Error: [FatalErrorException] Cannot unset string offsets
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot unset st...', '/var/www/cakeph...', 345)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 18:17:01 Error: Fatal Error (1): Cannot unset string offsets in [/var/www/cakephp/lib/Cake/View/Helper/HtmlHelper.php, line 345]
+2013-11-29 18:17:01 Error: [FatalErrorException] Cannot unset string offsets
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot unset st...', '/var/www/cakeph...', 345)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-11-29 18:17:38 Error: Fatal Error (1): Cannot unset string offsets in [/var/www/cakephp/lib/Cake/View/Helper/HtmlHelper.php, line 345]
+2013-11-29 18:17:38 Error: [FatalErrorException] Cannot unset string offsets
+Request URL: /cakephp/categorias
+Stack Trace:
+#0 /var/www/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot unset st...', '/var/www/cakeph...', 345)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#2 /var/www/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot unset st...', '/var/www/cakeph...', 345, Array)
+#3 /var/www/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
